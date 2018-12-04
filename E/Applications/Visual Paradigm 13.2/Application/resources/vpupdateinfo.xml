@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<productupdate>
+	<productinfo build="20161101" product="vp" releaseName="13.2" releaseType="r" version="13.2"/>
+	<updateInfo updateFileVersion="1477393568277" updateVersion="20160603"/>
+	<filelist>
+		<file absolutePath="lib/am-help.jar" md5="32ae428e5b388fb6ab2e054249699ab2" name="am-help.jar"/>
+		<file absolutePath="lib/vp-help.jar" md5="c60d53d6d1e7db4ce377cdf4cc907c5c" name="vp-help.jar"/>
+	</filelist>
+</productupdate>

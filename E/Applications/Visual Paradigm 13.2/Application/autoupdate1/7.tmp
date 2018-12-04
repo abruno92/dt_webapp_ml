@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Features edition="Professional" version="13-2-0">
+	<Feature link="https://www.visual-paradigm.com/features/agile-development-with-uexceler/#user-stories" name="Agile Project Management">
+		<Edition name="Professional"/>
+		<Edition name="Standard"/>
+		<Edition name="Modeler"/>
+	</Feature>
+	<Feature link="https://www.visual-paradigm.com/features/uml-and-sysml-tools/" name="UML">
+		<Edition name="Professional"/>
+		<Edition name="Standard"/>
+		<Edition name="Modeler"/>
+	</Feature>
+	<Feature link="https://www.visual-paradigm.com/features/bpmn-diagram-and-tools/" name="Business Process Mapping">
+		<Edition name="Professional"/>
+		<Edition name="Standard"/>
+		<Edition name="Modeler"/>
+	</Feature>
+	<Feature link="https://www.visual-paradigm.com/features/database-design-with-erd-tools/" name="ERD &amp; DFD">
+		<Edition name="Professional"/>
+		<Edition name="Standard"/>
+		<Edition name="Modeler"/>
+	</Feature>
+	<Feature link="https://www.visual-paradigm.com/features/document-generation-tools/" name="Document Generation">
+		<Edition name="Professional"/>
+		<Edition name="Standard"/>
+	</Feature>
+	<Feature link="https://www.visual-paradigm.com/features/code-engineering-tools/" name="Code Engineering">
+		<Edition name="Professional"/>
+		<Edition name="Standard"/>
+	</Feature>
+	<Feature link="https://www.visual-paradigm.com/features/database-engineering-tools/" name="Database Engineering">
+		<Edition name="Professional"/>
+		<Edition name="Standard"/>
+	</Feature>
+	<Feature link="https://www.visual-paradigm.com/features/business-modeling-diagrams-and-tools/#raci-chart" name="CRUD and RACI Chart">
+		<Edition name="Professional"/>
+		<Edition name="Standard"/>
+	</Feature>
+	<Feature link="https://www.visual-paradigm.com/features/mind-mapping-diagram-and-tools/#mind-mapping" name="Mind Mapping">
+		<Edition name="Professional"/>
+		<Edition name="Standard"/>
+	</Feature>
+	<Feature link="https://www.visual-paradigm.com/features/agile-development-with-uexceler/#user-story-scenario" name="Advanced User Story">
+		<Edition name="Professional"/>
+	</Feature>
+	<Feature link="https://www.visual-paradigm.com/features/ux-design-and-wireframe-tools/#wireframing" name="Wireframe">
+		<Edition name="Professional"/>
+	</Feature>
+	<Feature link="https://www.visual-paradigm.com/features/impact-analysis-tools/" name="Impact Analysis">
+		<Edition name="Professional"/>
+	</Feature>
+	<Feature link="https://www.visual-paradigm.com/features/impact-analysis-tools/#matrix" name="Matrix">
+		<Edition name="Professional"/>
+	</Feature>
+	<Feature link="https://www.visual-paradigm.com/features/business-rules-management-tools/" name="Business Rules Management">
+		<Edition name="Professional"/>
+	</Feature>
+	<Feature link="https://www.visual-paradigm.com/features/cmmn-diagram-tools/" name="CMMN">
+		<Edition name="Professional"/>
+	</Feature>
+</Features>
